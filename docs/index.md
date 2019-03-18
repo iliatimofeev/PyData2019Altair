@@ -1,4 +1,4 @@
-# PyData 2019 Altair
+# PyData #6 [pydata.moscow](http://pydata.moscow/)
 
 * slides [pdf](PyData_2019_Altair.pdf)
 * notebook [ipynb](PyData2019_Altair.ipynb)
