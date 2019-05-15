@@ -10,3 +10,5 @@ alt="IMAGE ALT TEXT HERE" width="240" border="10" /></a>
 * data_set [csv](word_bank.csv)
 * [demo.html](demo.html)
 * [demo2.html](demo2.html)
+
+[![HitCount](http://hits.dwyl.io/iliatimofeev/PyData2019Altair.svg)](http://hits.dwyl.io/iliatimofeev/PyData2019Altair)
